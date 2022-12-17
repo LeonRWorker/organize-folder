@@ -1,2 +1,2 @@
 # Organizador
-Automação de organização e de arquivos por pastas
+Automação de organização de arquivos por pastas
